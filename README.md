@@ -1,3 +1,3 @@
-# NaiveByase-and-KKN-Classifer
+# NaiveByase and KKN classifier
 
-This repo shows how to use NaiveByase and KKN Classifer.
+This repo shows how to use NaiveByase and KKN classifier.
